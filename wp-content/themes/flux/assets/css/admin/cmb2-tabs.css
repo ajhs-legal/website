@@ -1,0 +1,13 @@
+.cmb2-tabs .cmb-type-title {border-bottom: none !important;}
+.cmb2-tabs .cmb-type-title .cmb-td {display: none;}
+.cmb2-id-tab-closure {display: none;}
+.cmb2-wrap .nav-tab {background: #ebebeb none repeat scroll 0 0;border: 1px solid #e5e5e5;box-sizing: content-box;color: #777;cursor: pointer;float: left;font: 13px/19px "Open Sans",sans-serif;height: 20px;margin: 5px 0 0 5px;padding: 3px 8px 4px;position: relative;top: 1px;}
+.cmb2-wrap .ui-tabs-active .nav-tab {background-color: #fff;border: none;color: #777;}
+.body {display: none;}
+.cmb2-wrap {margin: 0;padding: 0 !important;border: none !important;}
+.cmb2-wrap .ui-widget-content {border: none;background: #fff;padding: 0;}
+.cmb2-wrap .ui-widget-header {border: none;background: #fff;color: #222;font-weight: bold;padding: 0 !important;}
+.cmb2-wrap .ui-state-default, .cmb2-wrap .ui-widget-content .ui-state-default, .cmb2-wrap .ui-widget-header .ui-state-default {border: none;background: #fff;font-weight: normal;color: #555;margin: 0 !important;}
+.cmb2-wrap .ui-state-active, .cmb2-wrap .ui-widget-content .ui-state-active, .cmb2-wrap .ui-widget-header .ui-state-active {padding: 0 !important;border: none;}
+.cmb2-wrap .ui-state-active a, .cmb2-wrap .ui-widget-content .ui-state-active a, .cmb2-wrap .ui-widget-header .ui-state-active a {background-color: #333;color: #fff !important;}
+.cmb2-wrap .ui-state-active a, .cmb2-wrap .ui-state-active a:link, .cmb2-wrap .ui-state-active a:visited {color: #777;}
